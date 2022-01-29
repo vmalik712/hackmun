@@ -36,7 +36,7 @@ export default function Conference() {
                             Schedule
                         </h2>
                         <div className='w-full'>
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Opening Ceremony
                                 </p>
@@ -45,7 +45,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Morning Committee Session
                                 </p>
@@ -54,7 +54,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Lunch Break
                                 </p>
@@ -63,7 +63,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Afternoon Committee Session 1
                                 </p>
@@ -72,7 +72,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Break
                                 </p>
@@ -81,7 +81,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Afternoon Committee Session 2
                                 </p>
@@ -90,7 +90,7 @@ export default function Conference() {
                                 </p>
                             </div>
 
-                            <div class="flex justify-between">
+                            <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Closing Ceremonies
                                 </p>

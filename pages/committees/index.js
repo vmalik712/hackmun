@@ -35,12 +35,12 @@ export default function Committees({ allCommitteesData }) {
                 <div key={title} className="relative">
 
                   <a href={"/committees/" + id}>
-                    <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                      <img class="w-full" src={image} alt="" pt-0 />
-                      <div class="px-6 py-4">
-                        <div class="text-xs mb-1">{type}</div>
-                        <div class="font-bold text-xl mb-2">{title}</div>
-                        <p class="text-gray-700 text-base">
+                    <div className="max-w-sm rounded overflow-hidden shadow-lg">
+                      <img className="w-full" src={image} alt="" pt-0 />
+                      <div className="px-6 py-4">
+                        <div className="text-xs mb-1">{type}</div>
+                        <div className="font-bold text-xl mb-2">{title}</div>
+                        <p className="text-gray-700 text-base">
                           {description}
                         </p>
                       </div>

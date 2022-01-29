@@ -11,7 +11,7 @@ export default function Secretariat() {
                         </h1>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            This year's secretariat for HackMUN IV is Daniel Cai, Advith Sharma, Tibet Yakut, and Steven Yu.
+                            This year&apos;s secretariat for HackMUN IV is Daniel Cai, Advith Sharma, Tibet Yakut, and Steven Yu.
                         </p>
 
                         <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
