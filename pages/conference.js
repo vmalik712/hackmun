@@ -2,7 +2,6 @@ import Layout from '../components/layout'
 
 export default function Conference() {
     return (
-
         <Layout>
             <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div className="flex items-center w-full">

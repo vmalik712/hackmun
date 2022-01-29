@@ -37,7 +37,7 @@ export default function Home() {
               <div className="sm:text-center lg:text-left">
                 <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                   <span className="block xl">HackMUN IV</span>{' '}
-                  <span className="block text-indigo-600 xl:inline">March 3, 2022</span>
+                  <span className="block text-indigo-600 xl:inline">April 2, 2022</span>
                 </h1>
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                   The Hackley Model UN Club is planning to host its HackMUN IV conference on April 2, 2022 and is very excited to potentially run an in-person conference. This year's secretariat for HackMUN IV is Daniel Cai, Advith Sharma, Tibet Yakut, and Steven Yu.
