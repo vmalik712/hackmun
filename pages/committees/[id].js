@@ -20,10 +20,42 @@ export async function getStaticPaths() {
 
 export default function Committee({ committeeData }) {
     return <Layout>
-        {committeeData.title}
-        <br />
-        {committeeData.description}
+        <div className="bg-gray-50">
+            <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
+                <h2 className="text-3xl tracking-tight text-gray-900 sm:text-4xl">
+                    <span className="block text-xl">{committeeData.type}</span>
+                    <span className="block text-indigo-600 font-extrabold">{committeeData.title}</span>
+                </h2>
+                <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
+                    <div className="inline-flex rounded-md shadow">
+                        <a
+                            href={committeeData.guide}
+                            className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
+                        >
+                            View background guide
+                        </a>
+                    </div>
+                    <div className="ml-3 inline-flex rounded-md shadow">
+                        <a
+                            href="#"
+                            className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50"
+                        >
+                            Email chair
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-        <div dangerouslySetInnerHTML={ { __html: committeeData.contentHtml } } />
+        <br />
+
+
+        <div className="text-center">
+            <div className="text-left max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div dangerouslySetInnerHTML={{ __html: committeeData.contentHtml }}/>
+            </div>
+        </div>
+
+
     </Layout>
 }
