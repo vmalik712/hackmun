@@ -4,7 +4,7 @@ export default function Conference() {
     return (
 
         <Layout>
-            <div className="container p-8 mx-auto xl:px-0 w-full">
+            <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div className="flex items-center w-full">
                     <div className="mb-8 w-full">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">

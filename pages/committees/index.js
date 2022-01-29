@@ -25,11 +25,9 @@ export default function Committees({ allCommitteesData }) {
 
       <div className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="lg:text-center">
-            <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              Committees
-            </p>
-          </div>
+          <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
+            Committees
+          </h1>
 
           <div className="mt-10">
             <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-3 md:gap-x-8 md:gap-y-10">
@@ -40,7 +38,7 @@ export default function Committees({ allCommitteesData }) {
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
                       <img class="w-full" src={image} alt="" pt-0 />
                       <div class="px-6 py-4">
-                      <div class="text-xs mb-1">{type}</div>
+                        <div class="text-xs mb-1">{type}</div>
                         <div class="font-bold text-xl mb-2">{title}</div>
                         <p class="text-gray-700 text-base">
                           {description}
