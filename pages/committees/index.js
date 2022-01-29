@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Navbar from "../../components/navbar.js"
 import Layout, { siteTitle } from "../../components/layout.js"
 import { getCommitteesData } from '../../lib/committees.js'
+import Dropdown from '../../components/dropdown.js'
 
 export async function getStaticProps() {
   const allCommitteesData = getCommitteesData()
@@ -21,6 +22,7 @@ export default function Committees({ allCommitteesData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+
       <div className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
@@ -31,23 +33,23 @@ export default function Committees({ allCommitteesData }) {
 
           <div className="mt-10">
             <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-3 md:gap-x-8 md:gap-y-10">
-              {allCommitteesData.map(({ id, title, description, guide, image }) => (
-
+              {allCommitteesData.map(({ id, title, description, guide, image, type }) => (
                 <div key={title} className="relative">
 
                   <a href={id}>
-                    <dt>
-                      <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                        {/*<feature.icon className="h-6 w-6" aria-hidden="true" />*/}
+                    <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                      <img class="w-full" src={image} alt="" pt-0 />
+                      <div class="px-6 py-4">
+                      <div class="text-xs mb-1">{type}</div>
+                        <div class="font-bold text-xl mb-2">{title}</div>
+                        <p class="text-gray-700 text-base">
+                          {description}
+                        </p>
                       </div>
-                      <p className="ml-16 text-lg leading-6 font-medium text-gray-900">{title}</p>
-
-                    </dt>
+                    </div>
                   </a>
 
-                  <dd className="mt-2 ml-16 text-base text-gray-500">{description}</dd>
                 </div>
-
               ))}
             </dl>
           </div>
