@@ -1,4 +1,4 @@
-man i hate js 
+creating a website with zero knowledge of js, react, tailwindcss, and nextjs, what could go wrong lol
 
 /////
 
