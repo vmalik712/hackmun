@@ -7,7 +7,7 @@ import Dropdown from "../components/dropdown.js"
 const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Secretariat', href: '/secretariat', current: false },
-  { name: 'Conference', href: '/conference', current: false },
+  { name: 'Schedule', href: '/schedule', current: false },
   { name: 'Committees', href: '/committees', current: false },
 ]
 
