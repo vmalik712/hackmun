@@ -36,7 +36,7 @@ export default function Committees({ allCommitteesData }) {
               {allCommitteesData.map(({ id, title, description, guide, image, type }) => (
                 <div key={title} className="relative">
 
-                  <a href={id}>
+                  <a href={"/committees/" + id}>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
                       <img class="w-full" src={image} alt="" pt-0 />
                       <div class="px-6 py-4">
