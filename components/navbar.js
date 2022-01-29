@@ -4,7 +4,7 @@ import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 import Dropdown from "../components/dropdown.js"
 
 const navigation = [
-  { name: 'Home', href: '/', current: true },
+  { name: 'Home', href: '/', current: false },
   { name: 'Secretariat', href: '/secretariat', current: false },
   { name: 'Schedule', href: '/schedule', current: false },
   { name: 'Committees', href: '/committees', current: false },
