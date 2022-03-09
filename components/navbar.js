@@ -34,7 +34,7 @@ export default function Navbar() {
                 </Disclosure.Button>
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
-              <a href="/">
+              <Link href="/">
                 <div className="flex-shrink-0 flex items-center">
                   <img
                     className="block lg:hidden h-10 w-auto"
@@ -47,7 +47,7 @@ export default function Navbar() {
                     alt="HackMUN"
                   />
                 </div>
-              </a>
+              </Link>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (

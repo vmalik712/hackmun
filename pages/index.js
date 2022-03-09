@@ -84,7 +84,7 @@ export default function Home() {
               </h1>
 
               <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                HackMUN IV will likely be hosted in-person on campus at Hackley School located in Tarrytown, New York. For more information regarding the conference, and general inquiries, visit the "Conference" tab. For committee-specific information such as forthcoming background guides, please visit the "Committees" tab. For additional resources, especially for novices, visit the "Resources" tab.
+                Dummy Text
               </p>
             </div>
 
