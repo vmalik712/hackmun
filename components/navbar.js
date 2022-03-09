@@ -2,7 +2,7 @@
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 import Dropdown from "../components/dropdown.js"
-import Image  from 'next/image'
+import Image from 'next/image'
 import Link from 'next/link'
 
 const navigation = [
@@ -35,35 +35,35 @@ export default function Navbar() {
                 </Disclosure.Button>
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
-              <Link href="/">
-                <div className="flex-shrink-0 flex items-center">
-                  <img
-                    className="block lg:hidden h-10 w-auto"
-                    src="/images/hackmun.png"
-                    alt="HackMUN"
-                  />
-                  <img
-                    className="hidden lg:block h-9 w-auto"
-                    src="/images/hackmun_large.png"
-                    alt="HackMUN"
-                  />
-                </div>
-              </Link>
+                <Link href="/">
+                  <div className="flex-shrink-0 flex items-center">
+                    <img
+                      className="block lg:hidden h-10 w-auto"
+                      src="/images/hackmun.png"
+                      alt="HackMUN"
+                    />
+                    <img
+                      className="hidden lg:block h-9 w-auto"
+                      src="/images/hackmun_large.png"
+                      alt="HackMUN"
+                    />
+                  </div>
+                </Link>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <Link
                         href={item.href}
                       >
-                        <a 
+                        <a
 
-key={item.name}
-aria-current={item.current ? 'page' : undefined}
-                        className={classNames(
-                          item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                          'px-3 py-2 rounded-md text-sm font-medium'
-                        )}>
-                        {item.name}
+                          key={item.name}
+                          aria-current={item.current ? 'page' : undefined}
+                          className={classNames(
+                            item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+                            'px-3 py-2 rounded-md text-sm font-medium'
+                          )}>
+                          {item.name}
                         </a>
                       </Link>
                     ))}

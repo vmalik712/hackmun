@@ -23,76 +23,76 @@ export default function Secretariat() {
                         </p>
                     </div>
 
-            <div className="container px-2 mx-auto">
+                    <div className="container px-2 mx-auto">
 
 
 
-            <h1 className="text-2xl text-center font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                        <h1 className="text-2xl text-center font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Meet the Secretariat
                         </h1>
-                
-                <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
-                    <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                        <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                            <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt=""/>
 
-                            <div className="mt-4 sm:mx-4 sm:mt-0">
-                                <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
-                                
-                                <p className="mt-2 text-gray-500 capitalize">Secretary General</p>
+                        <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
+                            <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                    <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt="" />
+
+                                    <div className="mt-4 sm:mx-4 sm:mt-0">
+                                        <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
+
+                                        <p className="mt-2 text-gray-500 capitalize">Secretary General</p>
+                                    </div>
+                                </div>
+
+                                <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
+
+                            </div>
+
+                            <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                    <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt="" />
+
+                                    <div className="mt-4 sm:mx-4 sm:mt-0">
+                                        <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Advith Sharma</h1>
+
+                                        <p className="mt-2 text-gray-500 capitalize">Secretary General</p>
+                                    </div>
+                                </div>
+
+                                <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
+
+                            </div>
+
+                            <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                    <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt="" />
+
+                                    <div className="mt-4 sm:mx-4 sm:mt-0">
+                                        <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Tibet Yakut</h1>
+
+                                        <p className="mt-2 text-gray-500 capitalize">Undersecretary General</p>
+                                    </div>
+                                </div>
+
+                                <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
+                            </div>
+
+                            <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                    <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt="" />
+
+                                    <div className="mt-4 sm:mx-4 sm:mt-0">
+                                        <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Steven Yu</h1>
+
+                                        <p className="mt-2 text-gray-500 capitalize ">Undersecretary General</p>
+                                    </div>
+                                </div>
+
+                                <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
                             </div>
                         </div>
-
-                        <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
-                        
-                    </div>
-
-                    <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                        <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                            <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt=""/>
-
-                            <div className="mt-4 sm:mx-4 sm:mt-0">
-                                <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Advith Sharma</h1>
-                                
-                                <p className="mt-2 text-gray-500 capitalize">Secretary General</p>
-                            </div>
-                        </div>
-
-                        <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
-
-                    </div>
-
-                    <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                        <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                            <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt=""/>
-
-                            <div className="mt-4 sm:mx-4 sm:mt-0">
-                                <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Tibet Yakut</h1>
-                                
-                                <p className="mt-2 text-gray-500 capitalize">Undersecretary General</p>
-                            </div>
-                        </div>
-
-                        <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
-                    </div>
-
-                    <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                        <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                            <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/hackmun.jpeg" alt=""/>
-
-                            <div className="mt-4 sm:mx-4 sm:mt-0">
-                                <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Steven Yu</h1>
-                                
-                                <p className="mt-2 text-gray-500 capitalize ">Undersecretary General</p>
-                            </div>
-                        </div>
-
-                        <p className="mt-4 text-gray-500 capitalize">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nesciunt officia aliquam neque optio? Cumque facere numquam est.</p>
                     </div>
                 </div>
             </div>
-                    </div>
-                </div>
         </Layout>
     )
 }

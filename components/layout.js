@@ -24,7 +24,7 @@ export default function Layout({ children }) {
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <header>
-        <Navbar/>
+        <Navbar />
       </header>
       <main>{children}</main>
     </div>
