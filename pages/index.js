@@ -43,13 +43,13 @@ export default function Home() {
                         <span className="block xl:inline sm:text-3xl md:text-5xl">April 2, 2022</span>
                       </h1>
                       <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                        The Hackley Model UN Club is planning to host its HackMUN IV conference on April 2, 2022 and is very excited to potentially run an in-person conference. This year&apos;s secretariat for HackMUN IV is Daniel Cai, Advith Sharma, Tibet Yakut, and Steven Yu.
+                        The Hackley Model United Nations Club is planning to host the fourth annual Hackley Model United Nations conference on April 9th, 2022. We are very excited to be running an in-person conference this year (pending finalization). On behalf of the secretariat, we look forward to seeing you on campus in the spring!
                       </p>
                       <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                         <div className="rounded-md shadow">
                           <Link href="/conference">
                             <a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-sky-500 hover:bg-sky-600 md:py-4 md:text-lg md:px-10">
-                              Conference Details
+                              Conference
                             </a>
                           </Link>
                         </div>
@@ -76,13 +76,16 @@ export default function Home() {
               </div>
             </div>
 
-
             <br />
 
-            <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 sm:text-center lg:text-left">
+            <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
               <h1 className="text-3xl font-bold leading-snug tracking-tight text-neutral-800 lg:text-3xl lg:leading-tight xl:text-5xl xl:leading-tight">
                 HackMUN IV Conference Details
               </h1>
+
+              <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                HackMUN IV will likely be hosted in-person on campus at Hackley School located in Tarrytown, New York. For more information regarding the conference, and general inquiries, visit the "Conference" tab. For committee-specific information such as forthcoming background guides, please visit the "Committees" tab. For additional resources, especially for novices, visit the "Resources" tab.
+              </p>
             </div>
 
 
