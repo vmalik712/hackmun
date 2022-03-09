@@ -3,6 +3,7 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
 import Dropdown from "../components/dropdown.js"
 import Image  from 'next/image'
+import Link from 'next/link'
 
 const navigation = [
   { name: 'Home', href: '/', current: false },
