@@ -10,6 +10,7 @@ const navigation = [
   { name: 'Secretariat', href: '/secretariat', current: false },
   { name: 'Conference', href: '/conference', current: false },
   { name: 'Committees', href: '/committees', current: false },
+  { name: 'Directions', href: '/directions', current: false },
   // "directions", "faq", "resources",
 ]
 
