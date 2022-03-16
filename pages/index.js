@@ -18,12 +18,12 @@ export default function Home() {
       </Head>
 
 
-      <div className="py-12 mx-auto px-4 sm:px-6 lg:px-8 w-full">
+      <div className="py-12 mx-auto px-4 sm:px-6 lg:px-8 max-w-8xl">
         <div className="flex items-center w-full">
           <div className="mb-8 w-full">
 
             <div className="relative bg-white overflow-hidden">
-              <div className="max-w-7xl mx-auto">
+              <div className="max-w-8xl mx-auto">
                 <div className="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
 
                   <svg
@@ -65,28 +65,17 @@ export default function Home() {
                   </main>
                 </div>
               </div>
-              <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-
+              <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 max-w-7xl mx-auto">
                 {/* javascript weird, need to keep img, not Image */}
                 <img
                   className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
                   src="/images/hackmun.jpeg"
-                  alt=""
+                  alt="HackMUN"
                 />
               </div>
             </div>
 
             <br />
-
-            <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
-              <h1 className="text-3xl font-bold leading-snug tracking-tight text-neutral-800 lg:text-3xl lg:leading-tight xl:text-5xl xl:leading-tight">
-                HackMUN IV Conference Details
-              </h1>
-
-              <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                Dummy Text
-              </p>
-            </div>
 
 
           </div>

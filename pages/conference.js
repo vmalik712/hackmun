@@ -19,15 +19,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Delegates should wear western business attire.
-                        </p>
-
-                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
-                            Location
-                        </h2>
-
-                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            293 Benedict Ave, Tarrytown, NY 10591
+                            The fourth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, April 9th, 2022 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
                         </p>
 
                         <br />
@@ -99,6 +91,37 @@ export default function Conference() {
                                 </p>
                             </div>
                         </div>
+
+                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                            Deadlines
+                        </h2>
+
+                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                            lorem ipsum
+                        </p>
+
+                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                            Fees
+                        </h2>
+
+                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to "Hackley School" with "Hackley Model United Nations IV" in the memo line.
+
+If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
+                        </p>
+
+                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                            Transportation
+                        </h2>
+
+                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                            HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org and we will try to help you work out a solution.
+                        </p>
+
+                        
+                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                            If you need directions to the campus of Hackley School, please visit the directions tab linked here: [button with a hyperlink or something]
+                        </p>
                     </div>
                 </div>
             </div>

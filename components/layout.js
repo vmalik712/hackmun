@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import Navbar from "../components/navbar.js"
+import Banner from "../components/banner.js"
+import Dropdown from './dropdown.js'
 
 export const siteTitle = 'HackMUN'
 
