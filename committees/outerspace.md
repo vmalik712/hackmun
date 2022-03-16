@@ -1,7 +1,7 @@
 ---
 title: "Special Conference on the International Law of Outer Space"
 guide: "/guides/EssentialC.pdf"
-image: "/images/hackmun.jpeg"
+image: "/images/outerspace.png"
 description: "Discuss the future of international trade and economics, political boundaries, law, and peaceful military regulations in outer space. "
 type: "General Assembly"
 ---

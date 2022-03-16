@@ -1,7 +1,7 @@
 ---
 title: "Presidential Cabinet on the U.S. Defaulting on Debt Crisis"
 guide: "/guides/EssentialC.pdf"
-image: "/images/hackmun.jpeg"
+image: "/images/usdebt.png"
 description: "Take roles in the President’s Cabinet to resolve an international economic, political, and military crisis catalyzed by a default on U.S. debt."
 type: "Crisis Committee"
 ---
