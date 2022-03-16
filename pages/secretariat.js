@@ -28,7 +28,7 @@ export default function Secretariat() {
                                     </div>
                                 </div>
 
-                                <p className="mt-4 text-gray-500">Hi Everyone! I&apos;m Daniel Cai, a senior at Hackley School. I've been participating in international and local Model United Nations conferences since 7th-grade. I&apos;m extremely passionate about politics and history which naturally translated to a deep love for Model UN. We're extremely honored to bring you this conference and on behalf of the HackMUN secretariat, we welcome you to the fourth annual Hackley Model UN!</p>
+                                <p className="mt-4 text-gray-500">Hi Everyone! I&apos;m Daniel Cai, a senior at Hackley School. I&apos;ve been participating in international and local Model United Nations conferences since 7th-grade. I&apos;m extremely passionate about politics and history which naturally translated to a deep love for Model UN. We&apos;re extremely honored to bring you this conference and on behalf of the HackMUN secretariat, we welcome you to the fourth annual Hackley Model UN!</p>
 
                             </div>
 

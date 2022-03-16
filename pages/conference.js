@@ -105,9 +105,9 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to "Hackley School" with "Hackley Model United Nations IV" in the memo line.
+                    Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.
 
-If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
+                    If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
                         </p>
 
                         <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
