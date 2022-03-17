@@ -1,9 +1,10 @@
 ---
 title: "Special Conference on the International Law of Outer Space"
-email: "outerspacehackmun@gmail.com”
+chairs: "Kiran Matifa and Tibet Yakut"
+email: "outerspacehackmun@gmail.com"
 guide: "/guides/EssentialC.pdf"
 image: "/images/outerspace.png"
-description: "Discuss how the world will handle the future of peaceful military regulations, political boundaries, law, international trade and economics in outer space. "
+description: "Discuss how the world will handle the future of peaceful military regulations, political boundaries, law, international trade and economics in outer space."
 type: "General Assembly"
 ms: false
 ---

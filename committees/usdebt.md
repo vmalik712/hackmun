@@ -1,5 +1,6 @@
 ---
 title: "Presidential Cabinet on the U.S. Default on Debt Crisis"
+chairs: "Noah Nager and Advith Sharma"
 email: "usdebthackmun@gmail.com"
 guide: "/guides/EssentialC.pdf"
 image: "/images/usdebt.png"
