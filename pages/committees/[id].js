@@ -37,7 +37,7 @@ export default function Committee({ committeeData }) {
                     </div>
                     <div className="ml-3 inline-flex rounded-md shadow">
                         <a
-                            href="mailto:dcai@students.hackleyschool.org"
+                            href={"mailto:" + committeeData.email}
                             className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-sky-500 bg-white hover:bg-sky-50"
                         >
                             Email chair
