@@ -97,7 +97,7 @@ export default function Conference() {
                         </div>
 
                         {/* desktop */}
-                        <div className='w-full pt-5 hidden lg:block'>
+                        <div className='w-full pt-5 hidden md:block'>
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Opening Ceremony
@@ -223,7 +223,7 @@ export default function Conference() {
                         </div>
 
                         {/* desktop */}
-                        <div className='w-full pt-5 hidden lg:block'>
+                        <div className='w-full pt-5 hidden md:block'>
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Registration Opens
