@@ -1,6 +1,6 @@
 ---
 title: "The Chinese Civil War - CCP vs. KMT"
-chairs: "Jinlin Cai and Steven Yu"
+chairs: "Daniel Cai and Steven Yu"
 email: "dcai@hackleyschool.org"
 guide: "/guides/EssentialC.pdf"
 image: "/images/chinesecivilwar.png"

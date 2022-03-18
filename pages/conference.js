@@ -105,7 +105,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                    Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.</p>
+                            Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.</p>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                             If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
@@ -119,7 +119,7 @@ export default function Conference() {
                             HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org and we will try to help you work out a solution.
                         </p>
 
-                        
+
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                             If you need directions to the campus of Hackley School, please visit the directions tab linked here: [button with a hyperlink or something]
                         </p>
