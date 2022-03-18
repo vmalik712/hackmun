@@ -15,12 +15,15 @@ export default function Directions() {
                             <div className="content flex py-2">
                                 <iframe
                                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.954317362553!2d-73.8432224122659!3d41.06970726552474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2eacaa3d59cd7%3A0xfb49b406a39181d2!2sHackley%20Upper%20School!5e0!3m2!1sen!2sus!4v1647567104221!5m2!1sen!2sus"
-                                    className="w-96 h-72 px-4"
+                                    className="w-96 h-72 px-4 self-center"
                                     loading="lazy">
                                 </iframe>
                                 <div className="item-body px-4">
                                     <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
                                         This year&apos;s HackMUN conference will be hosted in person at Hackley School in Tarrytown, New York (293 Benedict Avenue, Tarrytown, NY 10591). 
+                                    </p>
+                                    <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
+                                        Please arrive at the Upper School building, which is where the circle is (shown on map).
                                     </p>
                                     <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
                                         Hackley School can be reached through the MetroNorth train and the Cross Westchester Expressway (I-287), as well as the Saw Mill Parkway.
@@ -38,7 +41,11 @@ export default function Directions() {
                         {/* mobile */}
                         <div className='w-full pt-5 md:hidden mx-auto items-center'>
                             <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                                Hackley School can be reached through the MetroNorth train and the Cross Westchester Expressway (I-287), as well as the Saw Mill Parkway.
+                                This year&apos;s HackMUN conference will be hosted in person at Hackley School in Tarrytown, New York (293 Benedict Avenue, Tarrytown, NY 10591). 
+                            </p>
+
+                            <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                                Please arrive at the Upper School building, which is where the circle is (shown on map).
                             </p>
 
                             <iframe
@@ -46,6 +53,10 @@ export default function Directions() {
                                 className="max-w-96 h-72 self-center my-5 mx-auto"
                                 loading="lazy">
                             </iframe>
+
+                            <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                                Hackley School can be reached through the MetroNorth train and the Cross Westchester Expressway (I-287), as well as the Saw Mill Parkway.
+                            </p>
 
                             <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                                 If you plan to transit by train, you must arrive at the Tarrytown MetroNorth Train Station. From there on it’s most convenient to take a taxi or Uber to the Hackley campus. If you intend to walk from the train station to the Hackley campus, know that it&apos;s roughly a 30-40 minutes hike that&apos;s almost entirely uphill.
