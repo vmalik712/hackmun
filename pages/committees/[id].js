@@ -25,6 +25,7 @@ export default function Committee({ committeeData }) {
                 <h2 className="text-3xl tracking-tight text-gray-900 sm:text-4xl">
                     <span className="block text-xl">{committeeData.type}</span>
                     <span className="block text-sky-500 font-extrabold">{committeeData.title}</span>
+                    <span className="block text-2xl">{ committeeData.chairs}</span>
                 </h2>
                 <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
                     <div className="inline-flex rounded-md shadow">
@@ -55,6 +56,14 @@ export default function Committee({ committeeData }) {
                 <div dangerouslySetInnerHTML={{ __html: committeeData.contentHtml }}/>
             </div>
         </div>
+
+        <br/>
+
+        <div className='max-w-7xl md:mx-auto lg:mx-auto px-4 lg:px-8'>
+            <img className="md:w-full lg:w-full" src={committeeData.image} alt={committeeData.title} pt-0 />
+        </div>
+
+        <br/>
 
 
     </Layout>
