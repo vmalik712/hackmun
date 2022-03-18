@@ -12,13 +12,13 @@ export default function Directions() {
 
                         {/* desktop */}
                         <div className="w-full hidden lg:block pt-2">
-                            <div class="content flex py-2">
+                            <div className="content flex py-2">
                                 <iframe
                                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.954317362553!2d-73.8432224122659!3d41.06970726552474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2eacaa3d59cd7%3A0xfb49b406a39181d2!2sHackley%20Upper%20School!5e0!3m2!1sen!2sus!4v1647567104221!5m2!1sen!2sus"
                                     className="w-96 h-72 px-4"
                                     loading="lazy">
                                 </iframe>
-                                <div class="item-body px-4">
+                                <div className="item-body px-4">
                                     <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
                                         This year&apos;s HackMUN conference will be hosted in person at Hackley School in Tarrytown, New York (293 Benedict Avenue, Tarrytown, NY 10591). 
                                     </p>
