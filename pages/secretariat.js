@@ -82,7 +82,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500"> Hello everyone, I&apos;m Advith Sharma. I&apos;m currently a junior and have been doing Model UN since 9th grade, and have really grown to enjoy it. I&apos;ve experienced many different types of MUNs, including in-person and virtual conferences! I&apos;m very passionate about geography and global affairs as well as traveling the world and founded multiple GEO Clubs in his school to teach younger students. I also enjoy supporting environmental sustainability in the energy industry through economics and international finance and business. I look forward to once again chairing a committee at HackMUN and a very fun experience for all delegates! </p>
+                                            <p className="mt-4 text-gray-500"> Hello all, I&apos;m Advith Sharma, a junior, and have been doing Model UN since 9th grade and have really grown to enjoy it. I've experienced many different types of MUNs, including in-person and virtual conferences! I&apos;m very passionate about geography, global affairs, and travel and founded multiple GEO Clubs to teach younger students about these cool topics. I&apos;m interested in finance and international business as well as supporting sustainability in the environment and energy industry. I look forward to once again chairing a committee at HackMUN and a fun experience for all participating delegates! </p>
 
                                         </div>
 
