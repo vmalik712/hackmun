@@ -9,8 +9,52 @@ export default function Directions() {
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-sky-500 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
                             HackMUN IV Directions
                         </h1>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d295.43901239057965!2d-73.84130585907796!3d41.06970979795332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2eaca87e52e33%3A0x79bbb78c27633db7!2sHackley%20School!5e0!3m2!1sen!2sus!4v1647401321573!5m2!1sen!2sus" width="600" height="450" styles="border:0;" loading="lazy">
-                        </iframe>
+
+                        {/* desktop */}
+                        <div className="w-full hidden lg:block pt-2">
+                            <div class="content flex py-2">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.954317362553!2d-73.8432224122659!3d41.06970726552474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2eacaa3d59cd7%3A0xfb49b406a39181d2!2sHackley%20Upper%20School!5e0!3m2!1sen!2sus!4v1647567104221!5m2!1sen!2sus"
+                                    className="w-96 h-72 px-4"
+                                    loading="lazy">
+                                </iframe>
+                                <div class="item-body px-4">
+                                    <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
+                                        This year&apos;s HackMUN conference will be hosted in person at Hackley School in Tarrytown, New York (293 Benedict Avenue, Tarrytown, NY 10591). 
+                                    </p>
+                                    <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
+                                        Hackley School can be reached through the MetroNorth train and the Cross Westchester Expressway (I-287), as well as the Saw Mill Parkway.
+                                    </p>
+                                    <p className="py-2 text-xl leading-normal text-gray-500 lg:text-xl">
+                                        If you plan to transit by train, you must arrive at the Tarrytown MetroNorth Train Station. From there on it&apos;s most convenient to take a taxi or Uber to the Hackley campus. If you intend to walk from the train station to the Hackley campus, know that it’s roughly a 30-40 minutes hike that’s almost entirely uphill.
+                                    </p>
+                                </div>
+                            </div>
+                            <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl">
+                                If you&apos;re traveling on I-287, please take exit 1 onto White Plains road, and then unto Benedict Avenue, until you see signs leading you into the Hackley Campus. The conference will be hosted in the Upper School. If you’re traveling northwards up the Saw Mill River Parkway, take exit 21W and follow W Main Street towards Tarrytown, then onto Benedict Avenue to the Hackley campus. If you’re traveling Southward on the Saw Mill River Parkway, take exit 22 and follow signs for Tarrytown onto White Plains Road, then Benedict Avenue and once again the Hackley campus.
+                            </p>
+                        </div>
+
+                        {/* mobile */}
+                        <div className='w-full pt-5 md:hidden mx-auto items-center'>
+                            <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                                Hackley School can be reached through the MetroNorth train and the Cross Westchester Expressway (I-287), as well as the Saw Mill Parkway.
+                            </p>
+
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.954317362553!2d-73.8432224122659!3d41.06970726552474!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2eacaa3d59cd7%3A0xfb49b406a39181d2!2sHackley%20Upper%20School!5e0!3m2!1sen!2sus!4v1647567104221!5m2!1sen!2sus"
+                                className="max-w-96 h-72 self-center my-5 mx-auto"
+                                loading="lazy">
+                            </iframe>
+
+                            <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                                If you plan to transit by train, you must arrive at the Tarrytown MetroNorth Train Station. From there on it’s most convenient to take a taxi or Uber to the Hackley campus. If you intend to walk from the train station to the Hackley campus, know that it&apos;s roughly a 30-40 minutes hike that&apos;s almost entirely uphill.
+                            </p>
+
+                            <p className="lg:h-72 text-base text-top align-text-top mb-3 text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                                If you&apos;re traveling on I-287, please take exit 1 onto White Plains road, and then unto Benedict Avenue, until you see signs leading you into the Hackley Campus. The conference will be hosted in the Upper School. If you&apos;re traveling northwards up the Saw Mill River Parkway, take exit 21W and follow W Main Street towards Tarrytown, then onto Benedict Avenue to the Hackley campus. If you’re traveling Southward on the Saw Mill River Parkway, take exit 22 and follow signs for Tarrytown onto White Plains Road, then Benedict Avenue and once again the Hackley campus.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

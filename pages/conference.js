@@ -11,8 +11,6 @@ export default function Conference() {
                         </h1>
 
                         <br />
-                        <br />
-
 
                         <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             General
@@ -27,7 +25,74 @@ export default function Conference() {
                         <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Schedule
                         </h2>
-                        <div className='w-full'>
+                        {/* mobile */}
+                        <div className='w-full pt-5 md:hidden'>
+                            <div className="">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Opening Ceremony
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    9:00-9:30
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Morning Committee Session
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    9:30-12:00
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Lunch Break
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    12:00-1:00
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Afternoon Committee Session 1
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    1:00-2:45
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Break
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    2:45-3:00
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Afternoon Committee Session 2
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    3:00-4:30
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Closing Ceremonies
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    4:30-5:00
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* desktop */}
+                        <div className='w-full pt-5 hidden lg:block'>
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     Opening Ceremony
@@ -92,15 +157,125 @@ export default function Conference() {
                             </div>
                         </div>
 
-                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                        <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Deadlines
                         </h2>
+                        {/* mobile */}
+                        <div className='w-full pt-5 md:hidden'>
+                            <div className="">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Registration Opens
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Wednesday, March 16th
+                                </p>
+                            </div>
 
-                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            lorem ipsum
-                        </p>
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Background Guides Released
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Sunday, March 27th
+                                </p>
+                            </div>
 
-                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Registration Closes
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Wednesday, March 30th
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Committee Assignments Released
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Thursday, March 31st
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    Position Papers Due
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Thursday, April 7th
+                                </p>
+                            </div>
+
+                            <div className="pt-2">
+                                <p className="text-xl leading-normal font-semibold text-gray-600">
+                                    HackMUN IV Conference
+                                </p>
+                                <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
+                                    Saturday, April 9th
+                                </p>
+                            </div>
+                        </div>
+
+                        {/* desktop */}
+                        <div className='w-full pt-5 hidden lg:block'>
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Registration Opens
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Wednesday, March 16th
+                                </p>
+                            </div>
+
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Background Guides Released
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Sunday, March 27th
+                                </p>
+                            </div>
+
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Registration Closes
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Wednesday, March 30th
+                                </p>
+                            </div>
+
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Committee Assignments Released
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Thursday, March 31st
+                                </p>
+                            </div>
+
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Position Papers Due
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Thursday, April 7th
+                                </p>
+                            </div>
+
+                            <div className="flex justify-between">
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    HackMUN IV Conference
+                                </p>
+                                <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                                    Saturday, April 9th
+                                </p>
+                            </div>
+
+                        </div>
+
+                        <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Fees
                         </h2>
 
@@ -111,7 +286,7 @@ export default function Conference() {
                             If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
                         </p>
 
-                        <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                        <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Transportation
                         </h2>
 
@@ -121,7 +296,7 @@ export default function Conference() {
 
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            If you need directions to the campus of Hackley School, please visit the directions tab linked here: [button with a hyperlink or something]
+                            If you need directions to the campus of Hackley School, please visit the directions tab.
                         </p>
                     </div>
                 </div>
