@@ -1,4 +1,5 @@
-import Layout from '../components/layout'
+import Head from 'next/head'
+import Layout, { siteTitle } from "../components/layout.js"
 import { Tab } from '@headlessui/react'
 import { Fragment } from 'react'
 
@@ -9,6 +10,9 @@ function classNames(...classes) {
 export default function Secretariat() {
     return (
         <Layout>
+            <Head>
+                <title>{"Secretariat - " + siteTitle}</title>
+            </Head>
             <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div className="items-center w-full">
                     <div className="mb-8 w-full">
@@ -19,24 +23,24 @@ export default function Secretariat() {
 
                     <Tab.Group>
                         <Tab.List className='flex p-1 space-x-1 bg-sky-500/20 rounded-xl'>
-                            <Tab           
-                                className={({ selected }) => 
+                            <Tab
+                                className={({ selected }) =>
                                     classNames(
                                         'w-full sm:p-3 lg:p-3 sm:text-xl lg:text-2xl leading-5 font-semibold rounded-lg',
-                                    selected 
-                                    ? 'bg-sky-500 text-white shadow'
-                                    : 'text-sky-500 hover:bg-white/[0.12]')
+                                        selected
+                                            ? 'bg-sky-500 text-white shadow'
+                                            : 'text-sky-500 hover:bg-white/[0.12]')
                                 }
                             >
                                 The Secretariat
                             </Tab>
-                            <Tab           
-                                className={({ selected }) => 
+                            <Tab
+                                className={({ selected }) =>
                                     classNames(
                                         'w-full sm:p-3 lg:p-3 sm:text-xl lg:text-2xl leading-5 font-semibold rounded-lg',
-                                    selected 
-                                    ? 'bg-sky-500 text-white shadow'
-                                    : 'text-sky-500 hover:bg-white/[0.12]')
+                                        selected
+                                            ? 'bg-sky-500 text-white shadow'
+                                            : 'text-sky-500 hover:bg-white/[0.12]')
                                 }
                             >
                                 Note from the Secretariat
@@ -45,7 +49,7 @@ export default function Secretariat() {
                         <Tab.Panels>
                             <Tab.Panel>
                                 {/* Meet the Secretariat*/}
-                                <br/>
+                                <br />
                                 <div className="container px-2 mx-auto">
                                     <h1 className="text-2xl text-center font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                                         Meet the Secretariat
@@ -114,7 +118,7 @@ export default function Secretariat() {
                             </Tab.Panel>
                             <Tab.Panel>
                                 {/* Note from the Secretariat*/}
-                                <br/>
+                                <br />
                                 <div className="mb-8 w-full">
                                     <h2 className="text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                                         Note from the Secretaries General:

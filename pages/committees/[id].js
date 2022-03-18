@@ -1,4 +1,5 @@
-import Layout from '../../components/layout'
+import Head from 'next/head'
+import Layout, { siteTitle } from "../../components/layout.js"
 import { getAllCommitteeIds, getCommitteeData } from '../../lib/committees'
 
 export async function getStaticProps({ params }) {
@@ -20,6 +21,10 @@ export async function getStaticPaths() {
 
 export default function Committee({ committeeData }) {
     return <Layout>
+        <Head>
+            <title>{committeeData.title + " " + siteTitle}</title>
+        </Head>
+
         <div className="bg-gray-50">
             <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
                 <h2 className="text-3xl tracking-tight text-gray-900 sm:text-4xl">

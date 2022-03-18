@@ -24,7 +24,7 @@ export default function Committees({ allCommitteesData }) {
   return (
     <Layout>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{"Committees - " + siteTitle}</title>
       </Head>
 
       <div className="py-12 bg-white">

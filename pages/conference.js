@@ -1,8 +1,13 @@
-import Layout from '../components/layout'
+import Head from 'next/head'
+import Layout, { siteTitle } from "../components/layout.js"
 
 export default function Conference() {
     return (
         <Layout>
+            <Head>
+                <title>{"Conference - " + siteTitle}</title>
+            </Head>
+
             <div className="py-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
                 <div className="flex items-center w-full">
                     <div className="mb-8 w-full">

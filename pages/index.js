@@ -14,9 +14,8 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{"Home - " + siteTitle}</title>
       </Head>
-
 
       <div className="py-12 mx-auto px-4 sm:px-6 lg:px-8 max-w-8xl">
         <div className="flex items-center w-full">
