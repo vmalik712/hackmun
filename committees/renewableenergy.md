@@ -1,7 +1,7 @@
 ---
 title: "Transition to Renewable Energy"
 chairs: "Florangel Guzman and Elizabeth Rudge"
-email: "dcai@hackleyschool.org"
+email: "renewableshackmun@gmail.com"
 guide: "/guides/EssentialC.pdf"
 image: "/images/renewableenergy.png"
 description: "Discuss how we, as an international society, can progress into the future by transitioning away from non-renewable energy sources into a more renewable-energy-defined future."
