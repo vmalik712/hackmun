@@ -1,6 +1,6 @@
 ---
 title: "Special Conference on the International Law of Outer Space"
-chairs: "Kiran Marfatia and Tibet Yakut"
+chairs: "Afsana Dhali and Tibet Yakut"
 email: "outerspacehackmun@gmail.com"
 guide: "/guides/EssentialC.pdf"
 image: "/images/outerspace.png"

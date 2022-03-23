@@ -1,6 +1,6 @@
 ---
 title: "Transition to Renewable Energy"
-chairs: "Elizabeth Rudge"
+chairs: "Florangel Guzman and Elizabeth Rudge"
 email: "dcai@hackleyschool.org"
 guide: "/guides/EssentialC.pdf"
 image: "/images/renewableenergy.png"
