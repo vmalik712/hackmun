@@ -2,7 +2,7 @@
 title: "Presidential Cabinet on the U.S. Default on Debt Crisis"
 chairs: "Noah Nager and Advith Sharma"
 email: "usdebthackmun@gmail.com"
-guide: "/guides/EssentialC.pdf"
+guide: "/guides/usdebtguide.pdf"
 image: "/images/usdebt.png"
 description: "Take roles in the President’s Cabinet to resolve an international economic, political, and military crisis catalyzed by a default on U.S. debt."
 type: "Crisis Committee"
