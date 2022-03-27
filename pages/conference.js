@@ -292,6 +292,14 @@ export default function Conference() {
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
+                            COVID-19 Policy
+                        </h2>
+
+                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
+                            All delegates must be fully vaccinated (no booster required) to attend HackMUN IV. Delegates are also recommended to wear masks.
+                        </p>
+
+                        <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
                             Transportation
                         </h2>
 
