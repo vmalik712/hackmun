@@ -33,6 +33,7 @@ export default function Layout({ children }) {
       </Head>
       <header>
         <Navbar />
+        { /* <Banner /> */ }
       </header>
       <main>{children}</main>
     </div>
