@@ -1,9 +1,18 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
+import { useState } from "react";
+import React from "react";
 
 export default function Banner() {
+  const [isActive, setActive] = useState("true");
+  const handleToggle = () => {
+      setActive(!isActive);
+  };
+
   return (
-    <div className="bg-sky-500">
+    <div 
+    className={isActive ? "bg-sky-500" : "hidden"}
+    >
       <div className="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between flex-wrap">
           <div className="w-0 flex-1 flex items-center">
@@ -11,10 +20,11 @@ export default function Banner() {
               <SpeakerphoneIcon className="h-6 w-6 text-white" aria-hidden="true" />
             </span>
             <p className="ml-3 font-medium text-white truncate">
-              <span className="md:hidden">Background guides are out!</span>
-              <span className="hidden md:inline">All background guides have been released!</span>
+              <span className="md:hidden">HackMUN IV has been postponed.</span>
+              <span className="hidden md:inline">HackMUN IV has been postponed to a later date.</span>
             </p>
           </div>
+          { /*
           <div className="order-3 mt-2 flex-shrink-0 w-full sm:order-2 sm:mt-0 sm:w-auto">
             <a
               href="/committees"
@@ -23,15 +33,7 @@ export default function Banner() {
               Committees
             </a>
           </div>
-          <div className="order-2 flex-shrink-0 sm:order-3 sm:ml-3">
-            <button
-              type="button"
-              className="-mr-1 flex p-2 rounded-md hover:bg-sky-500 focus:outline-none focus:ring-2 focus:ring-white sm:-mr-2"
-            >
-              <span className="sr-only">Dismiss</span>
-              <XIcon className="h-6 w-6 text-white" aria-hidden="true" />
-            </button>
-          </div>
+          */ }
         </div>
       </div>
     </div>
