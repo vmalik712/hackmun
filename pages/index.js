@@ -39,10 +39,10 @@ export default function Home() {
                     <div className="sm:text-center lg:text-left">
                       <h1 className="text-4xl tracking-tight font-extrabold text-neutral-900 sm:text-5xl md:text-6xl">
                         <span className="block xl text-sky-500">HackMUN IV</span>{' '}
-                        <span className="block xl:inline sm:text-3xl md:text-5xl">April 9, 2022</span>
+                        <span className="block xl:inline sm:text-3xl md:text-5xl">March 4, 2023</span>
                       </h1>
                       <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                        The Hackley Model United Nations Club is planning to host the fourth annual Hackley Model United Nations conference on April 9th, 2022. We are very excited to be running an in-person conference this year (pending finalization). On behalf of the secretariat, we look forward to seeing you on campus in the spring!
+                        The Hackley Model United Nations Club is planning to host the fourth annual Hackley Model United Nations conference on March 4th, 2023. We are very excited to be running an in-person conference this year (pending finalization). On behalf of the secretariat, we look forward to seeing you on campus in the spring!
                       </p>
                       <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                         <div className="rounded-md shadow">

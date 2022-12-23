@@ -22,7 +22,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            The fourth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, April 9th, 2022 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
+                            The fourth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, March 4th, 2023 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
                         </p>
 
                         <br />
@@ -172,7 +172,7 @@ export default function Conference() {
                                     Registration Opens
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Wednesday, March 16th
+                                    Tuesday, January 10th
                                 </p>
                             </div>
 
@@ -181,7 +181,7 @@ export default function Conference() {
                                     Background Guides Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Sunday, March 27th
+                                    Tuesday, January 10th
                                 </p>
                             </div>
 
@@ -190,7 +190,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Wednesday, March 30th
+                                    Thursday, February 23rd
                                 </p>
                             </div>
 
@@ -199,7 +199,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Thursday, March 31st
+                                    Thursday, February 23rd
                                 </p>
                             </div>
 
@@ -208,7 +208,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Thursday, April 7th
+                                    Thursday, March 2nd
                                 </p>
                             </div>
 
@@ -217,7 +217,7 @@ export default function Conference() {
                                     HackMUN IV Conference
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday, April 9th
+                                    Saturday, March 4th
                                 </p>
                             </div>
                         </div>
@@ -229,7 +229,7 @@ export default function Conference() {
                                     Registration Opens
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Wednesday, March 16th
+                                    Tuesday, January 10th
                                 </p>
                             </div>
 
@@ -238,7 +238,7 @@ export default function Conference() {
                                     Background Guides Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Sunday, March 27th
+                                    Tuesday, January 10th
                                 </p>
                             </div>
 
@@ -247,7 +247,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Wednesday, March 30th
+                                    Thursday, February 23rd
                                 </p>
                             </div>
 
@@ -256,7 +256,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Thursday, March 31st
+                                    Thursday, February 23rd
                                 </p>
                             </div>
 
@@ -265,7 +265,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Thursday, April 7th
+                                    Thursday, March 2nd
                                 </p>
                             </div>
 
@@ -274,7 +274,7 @@ export default function Conference() {
                                     HackMUN IV Conference
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday, April 9th
+                                    Saturday, March 4th
                                 </p>
                             </div>
 
@@ -285,10 +285,10 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Given the in-person nature of HackMUN IV, we will be charging $20 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.</p>
+                            Given the in-person nature of HackMUN IV, we will be charging $15 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.</p>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org.
+                            If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at syu@students.hackleyschool.org and tyakut@students.hackleyschool.org.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
@@ -296,7 +296,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            All delegates must be fully vaccinated (no booster required) to attend HackMUN IV. Although it is optional, delegates are recommended to wear masks.
+                            All delegates must be fully vaccinated (no booster required) to attend HackMUN IV.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
@@ -312,7 +312,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at dcai@students.hackleyschool.org and asharma@students.hackleyschool.org and we will try to help you work out a solution.
+                            HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at syu@students.hackleyschool.org and tyakut@students.hackleyschool.org and we will try to help you work out a solution.
                         </p>
 
 

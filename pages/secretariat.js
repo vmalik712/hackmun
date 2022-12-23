@@ -97,7 +97,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi everyone, I&apos;m Tibet Yakut. I&apos;m a Junior at Hackley, and an Under-Secretaries General in our MUN team. I&apos;ve been participating in Model UN conferences since 6th grade. Aside from Model UN, I lead the Chess Club and Students for Refugees Club at Hackley. I&apos;m passionate about computer science, philosophy, and politics. I&apos;m honored to be hosting another HackMUN, and excited to see everyone!</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, I&apos;m Tibet Yakut. I&apos;m a Senior at Hackley, and a Co-Secretaries General in our MUN team. I&apos;ve been participating in Model UN conferences since 6th grade. Aside from Model UN, I lead the Chess Club and Students for Refugees Club at Hackley. I&apos;m passionate about computer science, philosophy, and politics. I&apos;m honored to be hosting another HackMUN, and excited to see everyone!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -127,7 +127,7 @@ export default function Secretariat() {
                                     <div className='py-5 text-l leading-normal text-gray-800 lg:text-l xl:text-l'>
                                         <p>Greetings Delegates!</p>
                                         <br />
-                                        <p>This year&apos;s secretariat for Hackley School&apos;s 4th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2022, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
+                                        <p>This year&apos;s secretariat for Hackley School&apos;s 4th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2023, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
                                         <br />
                                         <p>For many of us, the last few years seem to have been a perpetual crisis. To name a few: a global pandemic, a polarizing election culminating on January 6th at the US Capitol, the Taliban takeover in Afghanistan, deepening political divides in the US and Europe, drought and environmental refugee crises, and now an unprecedented war in Ukraine. This is an important reminder that our next generation of young delegates attending HackMUN are the ones that will face such challenges in the future and should be prepared to tackle them through unity and collaboration. </p>
                                         <br />
