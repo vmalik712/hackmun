@@ -190,7 +190,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Thursday, February 23rd
+                                    Wednesday, March 1st
                                 </p>
                             </div>
 
@@ -199,7 +199,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Thursday, February 23rd
+                                    Wednesday, March 1st
                                 </p>
                             </div>
 
@@ -208,7 +208,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Thursday, March 2nd
+                                    Saturday Morning, March 4th
                                 </p>
                             </div>
 
@@ -247,7 +247,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Thursday, February 23rd
+                                    Wednesday, March 1st
                                 </p>
                             </div>
 
@@ -256,7 +256,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Thursday, February 23rd
+                                    Wednesday, March 1st
                                 </p>
                             </div>
 
@@ -265,7 +265,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Thursday, March 2nd
+                                    Saturday Morning, March 4th
                                 </p>
                             </div>
 

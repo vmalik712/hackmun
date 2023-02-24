@@ -56,19 +56,34 @@ export default function Secretariat() {
                                     </h1>
 
                                     <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
+
+
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/danielcai.jpeg" alt="" />
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/stevenyu.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Steven Yu</h1>
+
+                                                    <p className="mt-2 text-gray-500 ">Co-Secretaries General</p>
+                                                </div>
+                                            </div>
+
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Steven Yu, a junior at Hackley. I&apos;m very interested in history and politics, especially international politics, which fueled my dedication to Model UN. In addition to my love of Model UN, I also love computer science (hardware and software) and watching NBA basketball. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                        </div>
+
+                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/tibetyakut.jpeg" alt="" />
+
+                                                <div className="mt-4 sm:mx-4 sm:mt-0">
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Tibet Yakut</h1>
 
                                                     <p className="mt-2 text-gray-500 capitalize">Co-Secretaries General</p>
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi Everyone! I&apos;m Daniel Cai, a senior at Hackley School. I&apos;ve been participating in international and local Model United Nations conferences since 7th-grade. I&apos;m extremely passionate about politics and history which naturally translated to a deep love for Model UN. We&apos;re extremely honored to bring you this conference and on behalf of the HackMUN secretariat, we welcome you to the fourth annual Hackley Model UN!</p>
-
+                                            <p className="mt-4 text-gray-500">Hi everyone, I&apos;m Tibet Yakut. I&apos;m a Senior at Hackley, and a Co-Secretaries General in our MUN team. I&apos;ve been participating in Model UN conferences since 6th grade. Aside from Model UN, I lead the Chess Club and Students for Refugees Club at Hackley. I&apos;m passionate about computer science, philosophy, and politics. I&apos;m honored to be hosting another HackMUN, and excited to see everyone!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -86,33 +101,6 @@ export default function Secretariat() {
 
                                         </div>
 
-                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/tibetyakut.jpeg" alt="" />
-
-                                                <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Tibet Yakut</h1>
-
-                                                    <p className="mt-2 text-gray-500 capitalize">Undersecretary General</p>
-                                                </div>
-                                            </div>
-
-                                            <p className="mt-4 text-gray-500">Hi everyone, I&apos;m Tibet Yakut. I&apos;m a Senior at Hackley, and a Co-Secretaries General in our MUN team. I&apos;ve been participating in Model UN conferences since 6th grade. Aside from Model UN, I lead the Chess Club and Students for Refugees Club at Hackley. I&apos;m passionate about computer science, philosophy, and politics. I&apos;m honored to be hosting another HackMUN, and excited to see everyone!</p>
-                                        </div>
-
-                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
-                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/stevenyu.jpeg" alt="" />
-
-                                                <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Steven Yu</h1>
-
-                                                    <p className="mt-2 text-gray-500 ">Undersecretary General</p>
-                                                </div>
-                                            </div>
-
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Steven Yu, a junior at Hackley. I&apos;m very interested in history and politics, especially international politics, which fueled my dedication to Model UN. In addition to my love of Model UN, I also love computer science (hardware and software) and watching NBA basketball. I&apos;m excited to see all of the delegates at HackMUN!</p>
-                                        </div>
                                     </div>
                                 </div>
                             </Tab.Panel>
@@ -141,7 +129,7 @@ export default function Secretariat() {
                                         <br />
                                         <p className='italic'>ad meliora</p>
                                         <br />
-                                        <p>Daniel Cai & Advith Sharma,</p>
+                                        <p>Advith Sharma, Tibet Yakut, & Steven Yu,</p>
                                         <br />
                                         <p>Secretaries-General of HackMUN IV</p>
                                     </div>
