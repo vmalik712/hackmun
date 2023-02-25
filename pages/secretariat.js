@@ -69,7 +69,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Steven Yu, a junior at Hackley. I&apos;m very interested in history and politics, especially international politics, which fueled my dedication to Model UN. In addition to my love of Model UN, I also love computer science (hardware and software) and watching NBA basketball. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Steven Yu, a senior at Hackley. I&apos;m very interested in history and politics, especially international politics, which fueled my dedication to Model UN. In addition to my love of Model UN, I also love computer science (hardware and software) and watching NBA basketball. I&apos;m excited to see all of the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -97,7 +97,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello all, I&apos;m Advith Sharma, a junior, and have been a Model UN enthusiast since 9th grade. I enjoy the learning and spirit of collaborative problem solving involved in all MUN conferences, whether in-person or virtual! My passion for travel, geography and global affairs have motivated me to start multiple Geo Clubs where younger students can explore these cool topics. I&apos;m interested in the topics of finance, international business and environmental sustainability. I look forward to once again chairing a committee at HackMUN and wish all participating delegates a fun experience! </p>
+                                            <p className="mt-4 text-gray-500">Hello all, I&apos;m Advith Sharma, a senior, and have been a Model UN enthusiast since 9th grade. I enjoy the learning and spirit of collaborative problem solving involved in all MUN conferences, whether in-person or virtual! My passion for travel, geography and global affairs have motivated me to start multiple Geo Clubs where younger students can explore these cool topics. I&apos;m interested in the topics of finance, international business and environmental sustainability. I look forward to once again chairing a committee at HackMUN and wish all participating delegates a fun experience! </p>
 
                                         </div>
 
