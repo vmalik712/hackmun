@@ -285,18 +285,11 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Given the in-person nature of HackMUN IV, we will be charging $15 per delegate as a registration fee. To pay for the conference, please have your school Model UN leaders collect the money and write one singular check for all delegates attending from your school/institution made out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line.</p>
+                            Given the in-person nature of HackMUN IV, we will be charging $15 per delegate as a registration fee. To pay for the conference, please make out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations IV&quot; in the memo line. Schools can either collect all of the money in one check, or delegates can pay individually. Delegates can give their check to the conference organizers at registration on March 4th.
+                        </p>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                             If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at syu@students.hackleyschool.org and tyakut@students.hackleyschool.org.
-                        </p>
-
-                        <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
-                            COVID-19 Policy
-                        </h2>
-
-                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            All delegates must be fully vaccinated (no booster required) to attend HackMUN IV.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
