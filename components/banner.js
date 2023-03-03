@@ -20,8 +20,8 @@ export default function Banner() {
               <SpeakerphoneIcon className="h-6 w-6 text-white" aria-hidden="true" />
             </span>
             <p className="ml-3 font-medium text-white truncate">
-              <span className="md:hidden">HackMUN IV registration is open!</span>
-              <span className="hidden md:inline">HackMUN IV registration is open!</span>
+              <span className="md:hidden">HackMUN IV is happening soon!</span>
+              <span className="hidden md:inline">HackMUN IV is happening soon!</span>
             </p>
           </div>
           { /*
