@@ -112,7 +112,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Daniel Cai was eternal leader of the Hackley Model USSR before its collapse after the fall of the Hackley Model Berlin Wall. Mr. Cai was known for his persecution of the Co-Secretaries Generals, which was the leading factor in the coup against him. After the coup attempt, Mr. Cai seeked refuge in Hanover, New Hampshire. Currently, Mr. Cai is an amateur basketball player that is unable to dunk. Mr. Cai was born in Batman, Turkey, where he was born as Bruce Wayne, before legally changing his name before assuming office as Eternal General Secretary of the now-defunct Hackley Model USSR.</p>
+                                            <p className="mt-4 text-gray-500">Daniel Cai was eternal leader of the Hackley Model USSR before its collapse after the fall of the Hackley Model Berlin Wall. Mr. Cai was known for his persecution of the Co-Secretaries Generals, which was the leading factor in the coup against him. After the coup attempt, Mr. Cai sought refuge in Hanover, New Hampshire. Currently, Mr. Cai is an amateur basketball player that is unable to dunk. Mr. Cai was born in Batman, Turkey, where he was born as Bruce Wayne, before legally changing his name before assuming office as Eternal General Secretary of the now-defunct Hackley Model USSR.</p>
 
                                         </div>
 
