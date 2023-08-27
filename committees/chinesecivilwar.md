@@ -1,6 +1,6 @@
 ---
-title: "The Chinese Civil War - CCP vs. KMT"
-chairs: "Daniel Cai and Steven Yu"
+title: "Avian Flu: Public Health Emergency"
+chairs: "Vivek Malik and Elan Suttiratana"
 email: "chinesecivilwarhackmun@gmail.com"
 guide: "/guides/chinesecivilwarguide.pdf"
 image: "/images/chinesecivilwar.png"
