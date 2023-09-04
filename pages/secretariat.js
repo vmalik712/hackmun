@@ -130,7 +130,7 @@ export default function Secretariat() {
                                     <div className='py-5 text-l leading-normal text-gray-800 lg:text-l xl:text-l'>
                                         <p>Greetings Delegates!</p>
                                         <br />
-                                        <p>This year&apos;s secretariat for Hackley School&apos;s 4th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2023, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
+                                        <p>This year&apos;s secretariat for Hackley School&apos;s 5th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2024, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
                                         <br />
                                         <p>For many of us, the last few years seem to have been a perpetual crisis. To name a few: a global pandemic, a polarizing election culminating on January 6th at the US Capitol, the Taliban takeover in Afghanistan, deepening political divides in the US and Europe, drought and environmental refugee crises, and now an unprecedented war in Ukraine. This is an important reminder that our next generation of young delegates attending HackMUN are the ones that will face such challenges in the future and should be prepared to tackle them through unity and collaboration. </p>
                                         <br />
@@ -138,7 +138,7 @@ export default function Secretariat() {
                                         <br />
                                         <p>Thus, this year at HackMUN IV, we wish for delegates of all backgrounds, whether first-timers or more polished debaters, to engage with the challenging issues at hand, while having fun and enjoying the experience of an in-person conference. Most importantly, grow and prosper in your perspectives. It is through this that we collectively stand a chance to right our world&apos;s wrongs.</p>
                                         <br />
-                                        <p>For the last 2 years, we have been inspired by our delegates&apos; ability to adapt and continue with Model UN virtually. We hope to bring back the cherished experience HackMUN used to be. Whether in resolving historical crises, addressing pressing current events in a general assembly, or securing the future of the United States in a governmental body, there is something for everyone at HackMUN this year. We encourage you to strike an effective balance during committee between being a leader and a listener, a voice of optimism as well as a voice of practicalism, challenging yourself to be both a team player and the best individual delegate you can be. </p>
+                                        <p>For the last 3 years, we have been inspired by our delegates&apos; ability to adapt and continue with Model UN virtually. We hope to bring back the cherished experience HackMUN used to be. Whether in resolving historical crises, addressing pressing current events in a general assembly, or securing the future of the United States in a governmental body, there is something for everyone at HackMUN this year. We encourage you to strike an effective balance during committee between being a leader and a listener, a voice of optimism as well as a voice of practicalism, challenging yourself to be both a team player and the best individual delegate you can be. </p>
                                         <br />
                                         <p>Don&apos;t hesitate to reach out to any of the staff this year at HackMUN. We implore you to make the best of the resources you are given and help us make this conference the best it has ever been!</p>
                                         <br />
@@ -146,7 +146,7 @@ export default function Secretariat() {
                                         <br />
                                         <p>Vivek Malik and Meredith Lee,</p>
                                         <br />
-                                        <p>Secretaries-General of HackMUN IV</p>
+                                        <p>Secretaries-General of HackMUN V</p>
                                     </div>
                                 </div>
                             </Tab.Panel>
