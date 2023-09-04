@@ -4,7 +4,7 @@ chairs: "Ben Iaderosa"
 email: "outerspacehackmun@gmail.com"
 guide: "/guides/outerspaceguide.pdf"
 image: "/images/pacificislands.png"
-description: "Discuss and decide on how the world will deal with pacific island inhabitants amid the climate crisis: Are their sinking nations able to be saved? To where will their citizens relocate?"
+description: "Discuss and decide on how the world will deal with pacific island inhabitants amid the growing climate crisis: Are their sinking nations able to be saved? To where will their citizens relocate?"
 type: "General Assembly"
 ms: false
 ---
