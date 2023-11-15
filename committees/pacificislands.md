@@ -1,6 +1,6 @@
 ---
 title: "Conference on Pacific Islands: Rising Sea Levels and Relocation"
-chairs: "Ben Iaderosa"
+chairs: "Chair TBD"
 email: "pacificislandshackmun@gmail.com"
 guide: "/guides/outerspaceguide.pdf"
 image: "/images/pacificislands.png"
