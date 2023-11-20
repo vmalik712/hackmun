@@ -121,7 +121,7 @@ export default function Secretariat() {
                                                 <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/danielcai_cool.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Elan Suttiratana</h1>
 
                                                     <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
                                                 </div>
