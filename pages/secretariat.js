@@ -69,7 +69,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Steven Yu, a senior at Hackley. I&apos;m very interested in history and politics, especially international politics, which fueled my dedication to Model UN. In addition to my love of Model UN, I also love computer science (hardware and software) and watching NBA basketball. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a junior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN seemed like the perfect activity. In addition to Model UN, I love biology, swimming, and table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -91,7 +91,7 @@ export default function Secretariat() {
                                                 <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/advithsharma.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Advith Sharma</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Zariah Stewart</h1>
 
                                                     <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
                                                 </div>
@@ -106,7 +106,7 @@ export default function Secretariat() {
                                                 <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/danielcai_cool.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Ben Iaderosa</h1>
 
                                                     <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
                                                 </div>
