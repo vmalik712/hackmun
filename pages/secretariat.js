@@ -74,7 +74,7 @@ export default function Secretariat() {
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/meredith.png" alt="" />
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/meredith2.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Meredith Lee</h1>
