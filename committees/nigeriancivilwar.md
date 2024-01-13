@@ -4,7 +4,7 @@ chairs: "Meredith Lee and Zariah Stewart"
 email: "nigeriancivilwarhackmun@gmail.com"
 guide: "/guides/placeholder.pdf"
 image: "/images/nigeriancivilwar.jpeg"
-description: "Take roles in the President’s Cabinet to resolve an international economic, political, and military crisis catalyzed by a default on U.S. debt."
+description: "Take roles as key international, military, and political figures to resolve the war between Nigeria and Biafra."
 type: "Crisis Committee"
 ms: false
 ---
