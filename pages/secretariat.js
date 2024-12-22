@@ -17,7 +17,7 @@ export default function Secretariat() {
                 <div className="items-center w-full">
                     <div className="mb-8 w-full">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-sky-500 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
-                            HackMUN V Secretariat
+                            HackMUN VI Secretariat
                         </h1>
                     </div>
 
@@ -69,7 +69,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a junior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN seemed like the perfect activity. I have thoroughly enjoyed my experiences both as a delegate and as a MUN club leader throughout high school. In addition to Model UN, I am a captain of the Debate Team and a leader of Hackley STEM Club. I love learning about linguistics, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a senior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN was the perfect activity for me! I have thoroughly enjoyed my experiences both as a delegate and as a MUN club leader throughout high school. In addition to Model UN, I am a captain of the Debate Team and a leader of Hackley STEM Club. I love learning about linguistics, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -83,7 +83,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi everyone, I am Meredith Lee! I am a junior at Hackley and have learned so much from Model throughout high school. I am happy to be a part of the Model UN community because I get to meet amazing people, debate, and have fun. I am interested in business and politics. Aside from MUN, I lead the Hackley Yogis, run cross country, winter track, and spring track, and maintain my top 0.001 percent of Taylor Swift listeners on Spotify. I look forward to seeing all the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, I am Meredith Lee! I am a senior at Hackley and have learned so much from Model throughout high school. I am happy to be a part of the Model UN community because I get to meet amazing people, debate, and have fun. I am interested in business and politics. Aside from MUN, I lead the Hackley Yogis, run cross country, winter track, and spring track, and maintain my top 0.001 percent of Taylor Swift listeners on Spotify. I look forward to seeing all the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
